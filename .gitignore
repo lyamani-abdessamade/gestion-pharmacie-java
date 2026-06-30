@@ -1,0 +1,34 @@
+# Java compilation classes
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual directories / output folders
+bin/
+out/
+outputs/
+factures/
+
+# Eclipse project files
+.metadata
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Database / OS files
+*.sql.bak
+.DS_Store
+Thumbs.db
